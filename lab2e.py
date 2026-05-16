@@ -2,7 +2,7 @@
 
 #Author: Rence Michael Valerio
 #Author ID: rmvalerio
-#Date Created: 2026/05/
+#Date Created: 2026/05/15
 
 timer = 10
 while timer != 0:
